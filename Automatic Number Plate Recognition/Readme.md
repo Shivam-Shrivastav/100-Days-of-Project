@@ -1,6 +1,6 @@
 # Automatic Number Plate Recognition Using OpenCV and easyOCR
 
-##### In this project we build a image recognition system using easyocr library in python to recognize the number in number plate of a given vechicle image.
+##### In this project we build a image recognition system using EASYOCR library and OPENCV in python to recognize the number in number plate of a given vechicle image.
 
 | Original Vehicle Image| Number Plate Recognized Image|
 | ------- | --- |
