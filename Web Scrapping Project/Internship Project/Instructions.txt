@@ -1,0 +1,6 @@
+1- Run requirements.txt file.
+2- Download Chrome Webdriver for web scraping using selenium.
+3- Select path for the chrome driver in the main function of scrape_and_save.py file.
+4- Run scape_and_save.py file, This will scrape the website from the given link in the "Input.xlsx" file and will save content as a text file as instructed.
+5- Now run the text_analysis.py file, This will perform text analysis on the web article's text and save the required parameters as per "Output Data Structure.xlsx" file.
+6- Now, "output.csv" file is the required result.
