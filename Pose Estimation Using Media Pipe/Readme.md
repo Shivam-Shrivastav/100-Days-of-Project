@@ -8,3 +8,7 @@
 
 5 - Used PySceneDetect to handle the fluctuated frames. Link: https://pyscenedetect.readthedocs.io/en/latest/
 
+## Result
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62115066/164164357-15ce0442-a4e9-4a3d-9859-9f4a6ad63ab8.gif)
+
+
